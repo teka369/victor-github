@@ -1,1 +1,0 @@
-Esta carpeta contiene los archivos de datos de las sucursales.
